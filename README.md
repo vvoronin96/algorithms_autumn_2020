@@ -1,6 +1,6 @@
 # algorithms_autumn_2020
 Chunaev's course in ITMO University
-File "Task" describes teasks for all labs
+File "Task.pdf" describes teasks for all labs
 
 Task #1. Experimental time complexity analysis (sum, bubble sort, quick sort, timsort, matrix product)
 
